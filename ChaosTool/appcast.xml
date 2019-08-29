@@ -7,10 +7,10 @@
             <description>
                 <![CDATA[
                     <h3>2019-08-30</h3>
-
+                    
                     <ul>
                     <li>1、服务器已迁移至内地, 更新此版本后才可正常使用，之前版本无法使用</li>
-
+                    
                     </ul>
                     
                 ]]>
@@ -21,7 +21,7 @@
             sparkle:version="190829"
             sparkle:shortVersionString="1.1.2"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEQCIAQN2zKmK5tTesxLGp7g58dQnXXmqNv4mBVr0hHsUaPzAiBL5snSOZNYGJq6uNQ8KdkiTo5VQRUxiNJlgpBqHMZylQ==" />
+            sparkle:dsaSignature="MEUCIQCTsU+LdhxcBKt9e/7JS3gc357UyY6J1lA3+rn/IADKLAIgJY15z51qo7dB04L80j5GgWQyE7+eovVXr0eTT6PfV38=" />
         </item>
     </channel>
 </rss>
