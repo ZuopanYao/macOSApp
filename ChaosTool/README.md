@@ -19,10 +19,6 @@
 
 ## ChaosTool教程
 
-**安装环境**
-- macOS 10.12+ (不支持Windows)
-- iOS项目(仅支持Objective-C开发的,包括unity3d、cocos2d-x引擎)
-
 **效果看看**
 ![IMG](./2755944421.jpg)
 
