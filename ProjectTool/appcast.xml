@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>ProjectTool</title>
+        <item>
+            <title>Version 1.1.0</title>
+            <description>
+                <![CDATA[
+                    <h3>2019-08-15</h3>
+
+                    <ul>
+                    <li>1、升级代码生成引擎, 提高仿真程度</li>
+                    <li>2、修复界面偶尔出现异常问题</li>
+
+                    </ul>
+                    
+                ]]>
+            </description>
+            <pubDate>周四, 15 8月 2019 12:10:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/ProjectTool/git/raw/master/ProjectTool_V1.1.0.zip"
+            length="6965874"
+            sparkle:version="190815"
+            sparkle:shortVersionString="1.1.0"
+            type="application/octet-stream"
+            sparkle:dsaSignature="MEUCIQC3Ow5ZGkaNk4iIRNwdhHhtFBxQpO63NbPYCK69kVptFgIgDXjUaYYhUONCLwNjOB6+OUNFD/ntXg65QfZw3o4u09g=" />
+        </item>
+    </channel>
+</rss>
