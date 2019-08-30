@@ -12,7 +12,7 @@
 - 模版可根据需要更改
 - 不影响原有的功能
 
-## [ [官网](https://www.yaozuopan.top/index.php/71.html) ]
+## [ [官网](https://www.me88.top/index.php/71.html) ]
 
 ## ChaosTool安装环境
 - macOS 10.12+ (不支持Windows)
