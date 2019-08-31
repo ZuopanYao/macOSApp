@@ -17,11 +17,11 @@
             </description>
             <pubDate>周六, 31 8月 2019 22:50:17 +0800</pubDate>
             <enclosure url="https://dev.tencent.com/u/yao7778899/p/macOSApp/git/raw/master/CodeMixer/CodeMixer_V3.1.1.zip"
-            length="7112412"
+            length="7112138"
             sparkle:version="190831"
             sparkle:shortVersionString="3.1.1"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCIQCVPcxXx8CDYE54RO9nZLIWPdYXrEjIlK1b838JFqzwRwIgSU2ev3v3nFUQ3mdaYssnUqYYKSioXZXmI6vlnBjd8O0=" />
+            sparkle:dsaSignature="MEUCIBto8XmdSejCBvd1sxjULOXzsafOFU47N6/QGa7zDawBAiEAz0hgVCRWddNgGUoz1wWSnGSsjkFbgf0UxDjjx+RzZlo=" />
         </item>
     </channel>
 </rss>
