@@ -3,25 +3,25 @@
     <channel>
         <title>ProjectTool</title>
         <item>
-            <title>Version 1.1.1</title>
+            <title>Version 1.1.2</title>
             <description>
                 <![CDATA[
-                    <h3>2019-08-29</h3>
+                    <h3>2019-08-31</h3>
 
                     <ul>
-                    <li>1、服务器已迁移至内地, 更新此版本后才可正常使用，之前版本无法使用</li>
+                    <li>1、进入App前增加运行环境检测</li>
 
                     </ul>
                     
                 ]]>
             </description>
-            <pubDate>周四, 29 8月 2019 11:50:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/macOSApp/git/raw/master/ProjectTool/ProjectTool_V1.1.1.zip"
-            length="6965583"
-            sparkle:version="190829"
-            sparkle:shortVersionString="1.1.0"
+            <pubDate>周六, 31 8月 2019 23:30:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/macOSApp/git/raw/master/ProjectTool/ProjectTool_V1.1.2.zip"
+            length="6967995"
+            sparkle:version="190831"
+            sparkle:shortVersionString="1.1.2"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEQCIG8IkqlxudXC/Tb6lS/Cx/UDYb6WQEg2VWuskU0KUi+fAiBKtd+owvHSJVzXPMUEqLHKb+Kjx9wxWEQ5EOEZeuEXuQ==" />
+            sparkle:dsaSignature="MEUCIQDP8B6pPHYwmjTQPKeFQFnJtvdZT5YJPWPTzRL8snKfYwIgaGk5rf/0q8lk+e9r296563hFKVCdrWpKLZhi8exY3bc=" />
         </item>
     </channel>
 </rss>
