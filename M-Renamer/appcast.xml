@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>M-Renamer</title>
+        <item>
+            <title>Version 1.0.0.Beta1</title>
+            <description>
+                <![CDATA[
+                    <h3>2019-09-11</h3>
+
+                    <ul>
+                    <li>1、首发版本</li>
+
+                    </ul>
+                    
+                ]]>
+            </description>
+            <pubDate>周六, 11 9月 2019 22:50:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/macOSApp/git/raw/master/M-Renamer/M-Renamer_V1.0.0.Beta1.zip"
+            length="7112138"
+            sparkle:version="190831"
+            sparkle:shortVersionString="1.0.0.Beta1"
+            type="application/octet-stream"
+            sparkle:dsaSignature="MEUCIBto8XmdSejCBvd1sxjULOXzsafOFU47N6/QGa7zDawBAiEAz0hgVCRWddNgGUoz1wWSnGSsjkFbgf0UxDjjx+RzZlo=" />
+        </item>
+    </channel>
+</rss>
