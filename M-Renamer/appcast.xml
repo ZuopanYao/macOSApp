@@ -3,7 +3,7 @@
     <channel>
         <title>M-Renamer</title>
         <item>
-            <title>Version 1.0.0.Beta1</title>
+            <title>Version 1.0.0.Beta3</title>
             <description>
                 <![CDATA[
                     <h3>2019-09-12</h3>
@@ -16,12 +16,12 @@
                 ]]>
             </description>
             <pubDate>周四, 12 9月 2019 22:50:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/macOSApp/git/raw/master/M-Renamer/M-Renamer_V1.0.0.Beta1.zip"
-            length="6896585"
-            sparkle:version="190912"
-            sparkle:shortVersionString="1.0.0.Beta1"
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/macOSApp/git/raw/master/M-Renamer/M-Renamer_V1.0.0.Beta3.zip"
+            length="6400982"
+            sparkle:version="190913"
+            sparkle:shortVersionString="1.0.0.Beta3"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCIQCXz517JBs2HZdB9MrgRovRVDit60uAdAt9Bv7R6YINxQIgbT7A0KqYfQKdpoJablx3Iuvv7IuMvc/QJQpdMUs6mbc=" />
+            sparkle:dsaSignature="MEQCICXbvfLBiNYlgKSCQ6bQVMdD+VQAt7Qe4+XSVi4nrBpOAiAGMUXEJpXASSB37TRuQK8tD/N6ANnaQ2yt3Nqt8RpY/A==" />
         </item>
     </channel>
 </rss>
