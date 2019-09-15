@@ -3,25 +3,27 @@
     <channel>
         <title>CodeMixer</title>
         <item>
-            <title>Version 3.1.1</title>
+            <title>Version 3.2.1</title>
             <description>
                 <![CDATA[
-                    <h3>2019-08-31</h3>
+                    <h3>2019-09-15</h3>
 
                     <ul>
-                    <li>1、进入App前增加运行环境检测</li>
+                    <li>1、优化注册设备速度</li>
+                    <li>2、增加免费版管理</li>
+                    <li>3、此版本为强制更新，否则无法使用</li>
 
                     </ul>
                     
                 ]]>
             </description>
-            <pubDate>周六, 31 8月 2019 22:50:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/macOSApp/git/raw/master/CodeMixer/CodeMixer_V3.1.1.zip"
-            length="7112138"
+            <pubDate>周日, 15 9月 2019 17:15:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/macOSApp/git/raw/master/CodeMixer/CodeMixer_V3.2.1.zip"
+            length="7117494"
             sparkle:version="190831"
-            sparkle:shortVersionString="3.1.1"
+            sparkle:shortVersionString="3.2.1"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCIBto8XmdSejCBvd1sxjULOXzsafOFU47N6/QGa7zDawBAiEAz0hgVCRWddNgGUoz1wWSnGSsjkFbgf0UxDjjx+RzZlo=" />
+            sparkle:dsaSignature="MEQCIGjgjNfNBDIClEc3gCB1fE63d967KSMNvBQ4qdQnlkZdAiBZiMEwKbORFkiSDtjBrhzLqyaZrDUxqUU+pYhOQmcjXA==" />
         </item>
     </channel>
 </rss>
