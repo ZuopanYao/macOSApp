@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>CCMixer</title>
+        <item>
+            <title>Version 1.0.0</title>
+            <description>
+                <![CDATA[
+                    <h3>2019-12-17</h3>
+                    <ul>
+                    <li>1、优化注册设备速度</li>
+                    <li>2、增加免费版管理</li>
+                    <li>3、此版本为强制更新，否则无法使用</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>周三, 17 12月 2019 17:15:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/macOSApp/git/raw/master/cc/CCMixer/CCMixer_V1.0.0.zip"
+            length="7117821"
+            sparkle:version="191217"
+            sparkle:shortVersionString="1.0.0"
+            type="application/octet-stream"
+            sparkle:dsaSignature="MEUCIQDkb3HFmIYBT2TY0rD8lDCnJQVRBEVeBoDyraiYSWOzHQIgN00h42Qkkr7G7Q8g+S96tqBXnw97YO6TiHm+JhWFtwg=" />
+        </item>
+    </channel>
+</rss>
