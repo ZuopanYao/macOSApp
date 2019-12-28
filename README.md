@@ -8,10 +8,10 @@ macOS平台工具，自动写白包工具，秒级别写H5游戏壳包，可视�
 
 [查看详情](./ProjectTool)
 
-# SignTool
+# CCSigner
 macOS平台工具，iOS重签名工具，ipa包快速重签名工具。
 
-[查看详情](./SignTool)
+[查看详情](./cc/CCSigner)
 
 # ChaosTool
 macOS平台工具，H5游戏项目必备工具，快速添加垃/混淆圾代码，提高过审机率。
