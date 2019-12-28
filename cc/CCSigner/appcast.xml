@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>CCSigner</title>
+        <item>
+            <title>Version 1.2.3</title>
+            <description>
+                <![CDATA[
+                    <h3>2019-08-29</h3>
+
+                    <ul>
+                    
+                    <li>1、服务器已迁移至内地, 更新此版本后才可正常使用，之前版本无法使用</li>
+                    <li>2、支持自定义bundle ID</li>
+
+                    </ul>
+                    
+                ]]>
+            </description>
+            <pubDate>周五, 30 8月 2019 02:10:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/macOSApp/git/raw/master/CCSigner/SignTool_V1.2.3.zip"
+            length="8624077"
+            sparkle:version="190829"
+            sparkle:shortVersionString="1.2.3"
+            type="application/octet-stream"
+            sparkle:dsaSignature="MEUCIQDN8kqrGst752EEuYOYpZei6ttxUvXMsksz95VZ853ZSQIgaW6Z3MVJCUgnWw/tn/aWbPDS4JHhSljQ93T2WP2Ivt8=" />
+        </item>
+    </channel>
+</rss>
