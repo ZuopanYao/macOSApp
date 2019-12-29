@@ -3,24 +3,24 @@
     <channel>
         <title>CCMixer</title>
         <item>
-            <title>Version 1.0.00</title>
+            <title>Version 1.0.10</title>
             <description>
                 <![CDATA[
-                    <h3>2019-12-26</h3>
+                    <h3>2019-12-29</h3>
                     <ul>
-                    <li>1、不再支持云端词库、冻结功能</li>
-                    <li>2、新增词库刷新，可保存到本地</li>
-                    <li>3、swift 5.0 支持、OC模式二优化</li>
+                    <li>1、增加账号系统，权限绑定账号，不再绑定设备，公司/家里多台mac设备轻松搞定</li>
+                    <li>2、删除权限转移功能</li>
+                    <li>3、注意事项：账号可以在任意设备上登陆, 但是记录设备不能超过三台, 且同一时间只能登陆一台设备</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>周四, 26 12月 2019 20:15:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/macOSApp/git/raw/master/cc/CCMixer/CCMixer_V1.0.00.zip"
-            length="6211218"
-            sparkle:version="1912260"
-            sparkle:shortVersionString="1.0.00"
+            <pubDate>周日, 29 12月 2019 17:15:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/macOSApp/git/raw/master/cc/CCMixer/CCMixer_V1.0.10.zip"
+            length="6221843"
+            sparkle:version="1912290"
+            sparkle:shortVersionString="1.0.10"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEQCIH/OLnOPLswOHAwIeb0vncJzlKDbV1xx/zeQU2kTLErOAiBg/WnyRdmc+jiRhH0SSymCfyUHa/jfZ5y0i+/d/vLPYw==" />
+            sparkle:dsaSignature="EUCIQDENN/j3TbOGF+L7rAWV0+1hAec4TPXh7nyHSu6G6+L6QIgIBOdglNj2afXW/UisxEAR9D6rF3QSea5sxiSY8Y9S5M=" />
         </item>
     </channel>
 </rss>
