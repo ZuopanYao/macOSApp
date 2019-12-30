@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
-        <title>M-Renamer</title>
+        <title>CCNamer</title>
         <item>
-            <title>Version 1.0.0.Beta4</title>
+            <title>Version 1.0.10</title>
             <description>
                 <![CDATA[
-                    <h3>2019-09-16</h3>
-
+                    <h3>2019-12-30</h3>
                     <ul>
-                    <li>1、支持在线更新</li>
-                    <li>2、修复部分项目递归死循环问题</li>
-
+                    <li>1、账号系统</li>
+                    <li>2、删掉权限转移功能</li>
                     </ul>
-                    
                 ]]>
             </description>
-            <pubDate>周一, 16 9月 2019 18:20:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/macOSApp/git/raw/master/M-Renamer/M-Renamer_V1.0.0.Beta4.zip"
-            length="6194818"
-            sparkle:version="190916"
-            sparkle:shortVersionString="1.0.0.Beta4"
+            <pubDate>周一, 30 12月 2019 13:20:17 +0800</pubDate>
+            <enclosure url="https://dev.tencent.com/u/yao7778899/p/macOSApp/git/raw/master/cc/CCNamer/CCNamer_V1.0.10.zip"
+            length="5975774"
+            sparkle:version="1912300"
+            sparkle:shortVersionString="1.0.10"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCIQC4ceHAmg1lM2g5p4rHjnGhr0CWWTnK5CaQZqXxUyZ7ygIgVylbiyhbJ7sR8vaaY5uv1V5rSjhBmSgsvI1cRHWuWOI=" />
+            sparkle:dsaSignature="MEUCIQCWJz/Z7yOKpcKr+AuwxC8sXUmKUXZXrmOzPg/YELpPDwIgOyjee3YrcLxNpJyI39FzxlEVo8yallVMFWpSmTki84Y=" />
         </item>
     </channel>
 </rss>
