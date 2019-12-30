@@ -19,7 +19,7 @@
             sparkle:version="1912300"
             sparkle:shortVersionString="1.0.10"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCIQCWJz/Z7yOKpcKr+AuwxC8sXUmKUXZXrmOzPg/YELpPDwIgOyjee3YrcLxNpJyI39FzxlEVo8yallVMFWpSmTki84Y=" />
+            sparkle:dsaSignature="MEUCIE3W97dZ2TApGUcxOl9isVJ2Z2ucOg6GrW8lvKUw+DHgAiEA+JpMmjV/+RLeOMiZUVEEtNMo1xM7u8ZFrbDlC0SllhQ=" />
         </item>
     </channel>
 </rss>
