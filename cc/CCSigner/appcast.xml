@@ -3,23 +3,23 @@
     <channel>
         <title>CCSigner</title>
         <item>
-            <title>Version 1.2.40</title>
+            <title>Version 1.3.0</title>
             <description>
                 <![CDATA[
-                    <h3>2019-12-28</h3>
+                    <h3>2020-02-28</h3>
                     <ul>
-                    <li>1、服务器已迁移至内地, 更新此版本后才可正常使用，之前版本无法使用</li>
-                    <li>2、支持自定义bundle ID</li>
+                    <li>1、修复匹配证书异常问题</li>
+                    <li>2、自动集成设置有效期功能</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>周六, 28 12月 2019 11:50:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/macOSApp/git/raw/master/cc/CCSigner/CCSigner_V1.2.40.zip"
-            length="7973513"
-            sparkle:version="1912280"
-            sparkle:shortVersionString="1.2.40"
+            <pubDate>周五, 28 02月 2020 09:50:17 +0800</pubDate>
+            <enclosure url="https://yao7778899.coding.net/p/macOSApp/d/macOSApp/git/raw/master/cc/CCSigner/CCSigner.zip"
+            length="5851953"
+            sparkle:version="2002270"
+            sparkle:shortVersionString="1.3.0"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEYCIQDRa4RlxXTg/loDH6rFcecX8R8nKJRo85EGpvjEbfvc0gIhAOf0O5g7BglBzYqdVrBBmP89sHbTX+UMigF4n8MvMeP7" />
+            sparkle:dsaSignature="MEUCIQCT5E6AeSrZNY41PjM7Y93yvVXSXbS323VOlNjdQUrbjQIgcPbB6XPxkY1uStYB2E13yy9tquEgs0/RhyEOBsgYdpU=" />
         </item>
     </channel>
 </rss>
