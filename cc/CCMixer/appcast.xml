@@ -3,7 +3,7 @@
     <channel>
         <title>CCMixer</title>
         <item>
-            <title>Version 1.0.3</title>
+            <title>Version 1.1.0</title>
             <description>
                 <![CDATA[
                     <h3>2020-02-29</h3>
@@ -16,11 +16,11 @@
             </description>
             <pubDate>周六, 29 02月 2020 10:15:17 +0800</pubDate>
             <enclosure url="https://yao7778899.coding.net/p/macOSApp/d/macOSApp/git/raw/master/cc/CCMixer/CCMixer.zip"
-            length="6228877"
-            sparkle:version="2002290"
-            sparkle:shortVersionString="1.0.3"
+            length="6231766"
+            sparkle:version="2002291"
+            sparkle:shortVersionString="1.1.0"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCIEWlAkSdO7NaQ0m0LtA/pMoSlVlLfWfzGP1Rq8ATis4EAiEAzjnoyKb8Wjh16aW/R6I6HAV/HP9TEZpBh8VOXawoA68=" />
+            sparkle:dsaSignature="MEUCIQDIO7Kub+fE/KyssezmBfv49mB6f+3tOTguPOFN1svLMQIgE15h+yr6WMGOwBIyDr6MI6+61V7v/zGFeB7lAJD/QPk=" />
         </item>
     </channel>
 </rss>

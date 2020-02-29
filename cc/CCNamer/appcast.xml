@@ -3,7 +3,7 @@
     <channel>
         <title>CCNamer</title>
         <item>
-            <title>Version 1.0.3</title>
+            <title>Version 1.1.0</title>
             <description>
                 <![CDATA[
                     <h3>2020-02-29</h3>
@@ -16,11 +16,11 @@
             </description>
             <pubDate>周六, 29 02月 2020 10:20:17 +0800</pubDate>
             <enclosure url="https://yao7778899.coding.net/p/macOSApp/d/macOSApp/git/raw/master/cc/CCNamer/CCNamer.zip"
-            length="6010028"
-            sparkle:version="2002290"
-            sparkle:shortVersionString="1.0.3"
+            length="6010058"
+            sparkle:version="2002291"
+            sparkle:shortVersionString="1.1.0"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEQCIDtcpMqVBYcZ/ZYO5rWCooA4Yx8kDF58QGzg8I3drRVOAiAFNhTu9MnuLXG6VVLWSJ//vCLZb5gfEpGbA++Z1sYBaA==" />
+            sparkle:dsaSignature="MEUCIDPqjbHjVLH27ELRM4zhq8FKfQN1RPmVfLxuNElLt0ejAiEApM6aTwtgWisa9AnkvCHuQb4MUdXDsTlPTY7bH2X6FHE=" />
         </item>
     </channel>
 </rss>
