@@ -3,23 +3,24 @@
     <channel>
         <title>CCNamer</title>
         <item>
-            <title>Version 1.0.10</title>
+            <title>Version 1.0.3</title>
             <description>
                 <![CDATA[
-                    <h3>2019-12-30</h3>
+                    <h3>2020-02-29</h3>
                     <ul>
-                    <li>1、账号系统</li>
-                    <li>2、删掉权限转移功能</li>
+                    <li>1、优化侧栏显示</li>
+                    <li>2、在线更新服务器更换</li>
+                    <li>3、其他优化</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>周一, 30 12月 2019 13:20:17 +0800</pubDate>
-            <enclosure url="https://dev.tencent.com/u/yao7778899/p/macOSApp/git/raw/master/cc/CCNamer/CCNamer.zip"
-            length="5975774"
-            sparkle:version="1912300"
-            sparkle:shortVersionString="1.0.10"
+            <pubDate>周六, 29 02月 2020 10:20:17 +0800</pubDate>
+            <enclosure url="https://yao7778899.coding.net/p/macOSApp/d/macOSApp/git/raw/master/cc/CCNamer/CCNamer.zip"
+            length="6010028"
+            sparkle:version="2002290"
+            sparkle:shortVersionString="1.0.3"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCIE3W97dZ2TApGUcxOl9isVJ2Z2ucOg6GrW8lvKUw+DHgAiEA+JpMmjV/+RLeOMiZUVEEtNMo1xM7u8ZFrbDlC0SllhQ=" />
+            sparkle:dsaSignature="MEQCIDtcpMqVBYcZ/ZYO5rWCooA4Yx8kDF58QGzg8I3drRVOAiAFNhTu9MnuLXG6VVLWSJ//vCLZb5gfEpGbA++Z1sYBaA==" />
         </item>
     </channel>
 </rss>
