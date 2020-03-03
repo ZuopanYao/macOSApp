@@ -6,19 +6,17 @@
             <title>Version 1.0.0</title>
             <description>
                 <![CDATA[
-                    <h3>2020-02-29</h3>
+                    <h3>2020-03-03</h3>
                     <ul>
-                    <li>1、优化侧栏显示</li>
-                    <li>2、在线更新服务器更换</li>
-                    <li>3、其他优化</li>
+                    <li>1、首发版本</li>
                     </ul>
                 ]]>
             </description>
             <pubDate>周六, 29 02月 2020 10:15:17 +0800</pubDate>
             <enclosure url="https://yao7778899.coding.net/p/macOSApp/d/macOSApp/git/raw/master/cc/CCVideo/CCVideo.zip"
             length="6231766"
-            sparkle:version="2002291"
-            sparkle:shortVersionString="1.1.0"
+            sparkle:version="2003030"
+            sparkle:shortVersionString="1.0.0"
             type="application/octet-stream"
             sparkle:dsaSignature="MEUCIQDIO7Kub+fE/KyssezmBfv49mB6f+3tOTguPOFN1svLMQIgE15h+yr6WMGOwBIyDr6MI6+61V7v/zGFeB7lAJD/QPk=" />
         </item>
