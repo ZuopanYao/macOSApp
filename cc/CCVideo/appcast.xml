@@ -3,22 +3,24 @@
     <channel>
         <title>CCVideo</title>
         <item>
-            <title>Version 1.0.1</title>
+            <title>Version 1.0.2</title>
             <description>
                 <![CDATA[
                     <h3>2020-03-04</h3>
                     <ul>
-                    <li>1、首发版本</li>
+                    <li>1、优化编码器下载及保存</li>
+                    <li>2、优化在线更新</li>
+                    <li>3、优化标题栏</li>
                     </ul>
                 ]]>
             </description>
             <pubDate>周三, 04 03月 2020 10:15:17 +0800</pubDate>
             <enclosure url="https://yao7778899.coding.net/p/macOSApp/d/macOSApp/git/raw/master/cc/CCVideo/CCVideo.zip"
-            length="15406034"
-            sparkle:version="2003040"
-            sparkle:shortVersionString="1.0.1"
+            length="15405829"
+            sparkle:version="2003041"
+            sparkle:shortVersionString="1.0.2"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEYCIQCTNI9l5mVqFs3D8GxFNau+NxhDOMsKfn0xMwcC8dHLyAIhAOYUF8g4bFho5FIMziRpRkJOdYHnDXbi6laoKpoAfbe8" />
+            sparkle:dsaSignature="MEUCIQDINl86ygtZP8K2PLdUIezc2BmqT3lxdWbuLy0QE6pwFQIgd5gkUUaeC7TAX1f5vxfU7eJjZ9Xbc7vb2KSio8sQ98E=" />
         </item>
     </channel>
 </rss>
