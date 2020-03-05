@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>CCJSON</title>
+        <item>
+            <title>Version 1.0.0</title>
+            <description>
+                <![CDATA[
+                    <h3>2020-03-04</h3>
+                    <ul>
+                    <li>首发版本</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>周三, 04 03月 2020 19:15:17 +0800</pubDate>
+            <enclosure url="https://yao7778899.coding.net/p/macOSApp/d/macOSApp/git/raw/master/cc/CCJSON/CCJSON.zip"
+            length="15406046"
+            sparkle:version="2003042"
+            sparkle:shortVersionString="1.0.0"
+            type="application/octet-stream"
+            sparkle:dsaSignature="MEUCIQC/pEuA62+/QRSYBHXOffgGv5DqlbBHHAuEG12nz5h9AgIgZdk9zu4oN6fa/5EcxmT/HmEDWneVDrYX3kFZLM62ChM=" />
+        </item>
+    </channel>
+</rss>
