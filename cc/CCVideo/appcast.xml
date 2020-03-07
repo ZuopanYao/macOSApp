@@ -3,22 +3,22 @@
     <channel>
         <title>CCVideo</title>
         <item>
-            <title>Version 1.0.3</title>
+            <title>Version 1.0.4</title>
             <description>
                 <![CDATA[
-                    <h3>2020-03-04</h3>
+                    <h3>2020-03-07</h3>
                     <ul>
-                    <li>1、修复视频分割名称异常问题</li>
+                    <li>1、修复视频进度数据异常导致崩溃问题</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>周三, 04 03月 2020 19:15:17 +0800</pubDate>
+            <pubDate>周六, 07 03月 2020 10:30:17 +0800</pubDate>
             <enclosure url="https://yao7778899.coding.net/p/macOSApp/d/macOSApp/git/raw/master/cc/CCVideo/CCVideo.zip"
-            length="15406046"
-            sparkle:version="2003042"
-            sparkle:shortVersionString="1.0.3"
+            length="15406220"
+            sparkle:version="2003070"
+            sparkle:shortVersionString="1.0.4"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCIQC/pEuA62+/QRSYBHXOffgGv5DqlbBHHAuEG12nz5h9AgIgZdk9zu4oN6fa/5EcxmT/HmEDWneVDrYX3kFZLM62ChM=" />
+            sparkle:dsaSignature="MEUCIGCAIbfpiZMKMccbOirjuFheYt3y50WxnpI5OtsT4/cAAiEAsZ97iEhrrVGYtfL4fCp5hfPorC/eTVZR0r4ws3u6WVY=" />
         </item>
     </channel>
 </rss>
