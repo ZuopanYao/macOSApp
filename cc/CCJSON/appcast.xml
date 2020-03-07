@@ -3,22 +3,22 @@
     <channel>
         <title>CCJSON</title>
         <item>
-            <title>Version 1.0.0</title>
+            <title>Version 1.0.1</title>
             <description>
                 <![CDATA[
                     <h3>2020-03-07</h3>
                     <ul>
-                    <li>首发版本</li>
+                    <li>对MJExtension解析进行适配</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>周六, 07 03月 2020 10:10:17 +0800</pubDate>
+            <pubDate>周六, 07 03月 2020 17:10:17 +0800</pubDate>
             <enclosure url="https://yao7778899.coding.net/p/macOSApp/d/macOSApp/git/raw/master/cc/CCJSON/CCJSON.zip"
-            length="6609655"
-            sparkle:version="2003070"
-            sparkle:shortVersionString="1.0.0"
+            length="6622673"
+            sparkle:version="2003071"
+            sparkle:shortVersionString="1.0.1"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEYCIQC16zXv7ux26vSePeYAiURLyL7q2+LEujgEsOWwsg65eAIhALfzhgyCLaD/7VjXbq+JYOva32jifDtyet3OZiW33LV2" />
+            sparkle:dsaSignature="MEYCIQDK941BDF38d6fnzmiNKPsMkqH2jew8p/ubOcvxPqbo2QIhAJKo7FMv2tHmt2UOGPYLMYtZUF8Mlh5c8FqrA4INxj/M" />
         </item>
     </channel>
 </rss>
