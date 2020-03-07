@@ -6,19 +6,19 @@
             <title>Version 1.0.0</title>
             <description>
                 <![CDATA[
-                    <h3>2020-03-04</h3>
+                    <h3>2020-03-07</h3>
                     <ul>
                     <li>首发版本</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>周三, 04 03月 2020 19:15:17 +0800</pubDate>
+            <pubDate>周六, 07 03月 2020 10:10:17 +0800</pubDate>
             <enclosure url="https://yao7778899.coding.net/p/macOSApp/d/macOSApp/git/raw/master/cc/CCJSON/CCJSON.zip"
-            length="15406046"
-            sparkle:version="2003042"
+            length="6609655"
+            sparkle:version="2003070"
             sparkle:shortVersionString="1.0.0"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCIQC/pEuA62+/QRSYBHXOffgGv5DqlbBHHAuEG12nz5h9AgIgZdk9zu4oN6fa/5EcxmT/HmEDWneVDrYX3kFZLM62ChM=" />
+            sparkle:dsaSignature="MEYCIQC16zXv7ux26vSePeYAiURLyL7q2+LEujgEsOWwsg65eAIhALfzhgyCLaD/7VjXbq+JYOva32jifDtyet3OZiW33LV2" />
         </item>
     </channel>
 </rss>
