@@ -3,22 +3,23 @@
     <channel>
         <title>CCVideo</title>
         <item>
-            <title>Version 1.0.4</title>
+            <title>Version 1.1.0</title>
             <description>
                 <![CDATA[
-                    <h3>2020-03-07</h3>
+                    <h3>2020-03-8</h3>
                     <ul>
                     <li>1、支持自动登陆账号，不需要每次手动输入账号</li>
-                                       <li>2、其他优化</li>                    </ul>
+                    <li>2、其他优化</li>                    
+                    </ul>
                 ]]>
             </description>
-            <pubDate>周六, 07 03月 2020 10:30:17 +0800</pubDate>
+            <pubDate>周日, 08 03月 2020 12:20:17 +0800</pubDate>
             <enclosure url="https://yao7778899.coding.net/p/macOSApp/d/macOSApp/git/raw/master/cc/CCVideo/CCVideo.zip"
-            length="15406220"
-            sparkle:version="2003070"
-            sparkle:shortVersionString="1.0.4"
+            length="15402859"
+            sparkle:version="2003080"
+            sparkle:shortVersionString="1.1.0"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCIGCAIbfpiZMKMccbOirjuFheYt3y50WxnpI5OtsT4/cAAiEAsZ97iEhrrVGYtfL4fCp5hfPorC/eTVZR0r4ws3u6WVY=" />
+            sparkle:dsaSignature="MEUCIGjEiP8aclJqqRX7WZXiHzWmRqlXXxpx1TJGd5a8uMBvAiEA4ceJabazdeqGAGAIvUDOVNTL887lz4VXvPqpKj5FAgs=" />
         </item>
     </channel>
 </rss>
