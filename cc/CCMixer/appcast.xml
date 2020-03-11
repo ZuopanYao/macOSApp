@@ -3,23 +3,22 @@
     <channel>
         <title>CCMixer</title>
         <item>
-            <title>Version 1.2.0</title>
+            <title>Version 1.2.1</title>
             <description>
                 <![CDATA[
-                    <h3>2020-03-08</h3>
+                    <h3>2020-03-11</h3>
                     <ul>
-                    <li>1、支持自动登陆账号，不需要每次手动输入账号</li>
-                    <li>2、其他优化</li>
+                    <li>1、新增功能: 可从项目源码解析组成单词库</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>周日, 08 03月 2020 11:15:17 +0800</pubDate>
+            <pubDate>周三, 11 03月 2020 19:30:17 +0800</pubDate>
             <enclosure url="https://yao7778899.coding.net/p/macOSApp/d/macOSApp/git/raw/master/cc/CCMixer/CCMixer.zip"
-            length="6495610"
-            sparkle:version="2003080"
-            sparkle:shortVersionString="1.2.0"
+            length="6507600"
+            sparkle:version="2003110"
+            sparkle:shortVersionString="1.2.1"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCIFlqi3fSRwU16A62LRXPKxXFJ8HGDM2ISdmcZhESc8LxAiEA8DU3tPU3KLNrsneMU8wB57l+ep4UnJmAdkeDugWQv48=" />
+            sparkle:dsaSignature="MEQCIE/L0YEZRTM+qE1GbuRKaAhb849Q69hH1mstfHAYQULuAiAJUK2NEBS4V8olFaYcfRFDMb7PiLfrpVhlACcn/dRDNw==" />
         </item>
     </channel>
 </rss>
