@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>CCNTFS</title>
+        <item>
+            <title>Version 1.0.0</title>
+            <description>
+                <![CDATA[
+                    <h3>2020-03-08</h3>
+                    <ul>
+                    <li>1、支持自动登陆账号，不需要每次手动输入账号</li>
+                    <li>2、其他优化</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>周日, 08 03月 2020 11:50:17 +0800</pubDate>
+            <enclosure url="https://yao7778899.coding.net/p/macOSApp/d/macOSApp/git/raw/master/cc/CCNTFS/CCNTFS.zip"
+            length=""
+            sparkle:version="2003080"
+            sparkle:shortVersionString="1.0.0"
+            type="application/octet-stream"
+            sparkle:dsaSignature="" />
+        </item>
+    </channel>
+</rss>
