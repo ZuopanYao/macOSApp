@@ -14,11 +14,11 @@
             </description>
             <pubDate>周二, 24 03月 2020 17:20:17 +0800</pubDate>
             <enclosure url="https://yao7778899.coding.net/p/macOSApp/d/macOSApp/git/raw/master/cc/CCNTFS/CCNTFS.zip"
-            length=""
+            length="10401934"
             sparkle:version="2003242"
-            sparkle:shortVersionString="1.0.2"
+            sparkle:shortVersionString="1.0.1"
             type="application/octet-stream"
-            sparkle:dsaSignature="" />
+            sparkle:dsaSignature="MEUCIF+ehnFIWDZEFzvMPzwkS7Drae1xwoZvrW/gSpJBpkabAiEA1AamQ3vCWSnRU3n0atAD5kAt1PAz16/HVkm18QY8fs0=" />
         </item>
     </channel>
 </rss>
