@@ -3,22 +3,22 @@
     <channel>
         <title>CCNTFS</title>
         <item>
-            <title>Version 1.0.0</title>
+            <title>Version 1.0.1</title>
             <description>
                 <![CDATA[
                     <h3>2020-03-24</h3>
                     <ul>
-                    <li>1、修复插件无法安装问题</li>
+                    <li>1、修复有效的Sign提示无效的问题</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>周日, 08 03月 2020 11:50:17 +0800</pubDate>
+            <pubDate>周二, 24 03月 2020 17:20:17 +0800</pubDate>
             <enclosure url="https://yao7778899.coding.net/p/macOSApp/d/macOSApp/git/raw/master/cc/CCNTFS/CCNTFS.zip"
-            length="11445396"
-            sparkle:version="2003241"
-            sparkle:shortVersionString="1.0.0"
+            length=""
+            sparkle:version="2003242"
+            sparkle:shortVersionString="1.0.2"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCIQCWekZWOnh6pkkGlMoiqrmcyhpLsM57ABgoN5ECjk9ZrgIgUKygER8jWRUF51oYQvGZUS5fdU0i4SHjxp5jiTNLixI=" />
+            sparkle:dsaSignature="" />
         </item>
     </channel>
 </rss>
