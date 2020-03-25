@@ -3,22 +3,23 @@
     <channel>
         <title>CCNTFS</title>
         <item>
-            <title>Version 1.0.1</title>
+            <title>Version 1.0.2</title>
             <description>
                 <![CDATA[
                     <h3>2020-03-24</h3>
                     <ul>
-                    <li>1、修复有效的Sign提示无效的问题</li>
+                    <li>1、修复自动退出问题</li>
+                    <li>2、优化日记占用内存问题</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>周二, 24 03月 2020 17:20:17 +0800</pubDate>
+            <pubDate>周四, 26 03月 2020 02:10:17 +0800</pubDate>
             <enclosure url="https://yao7778899.coding.net/p/macOSApp/d/macOSApp/git/raw/master/cc/CCNTFS/CCNTFS.zip"
-            length="10401934"
-            sparkle:version="2003242"
-            sparkle:shortVersionString="1.0.1"
+            length="10401165"
+            sparkle:version="2003260"
+            sparkle:shortVersionString="1.0.2"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCIF+ehnFIWDZEFzvMPzwkS7Drae1xwoZvrW/gSpJBpkabAiEA1AamQ3vCWSnRU3n0atAD5kAt1PAz16/HVkm18QY8fs0=" />
+            sparkle:dsaSignature="MEUCIGMtkVZ+s2io99VRWPq605rIoS1RVAuiPh6Uea0kgozJAiEAt7sxLp/zkt2W/oMOGYDK1S2fJLZywCoFCBO7GOGFBRc=" />
         </item>
     </channel>
 </rss>
