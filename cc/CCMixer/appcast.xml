@@ -3,22 +3,23 @@
     <channel>
         <title>CCMixer</title>
         <item>
-            <title>Version 1.2.1</title>
+            <title>Version 1.2.2</title>
             <description>
                 <![CDATA[
-                    <h3>2020-03-11</h3>
+                    <h3>2020-04-10</h3>
                     <ul>
-                    <li>1、新增功能: 可从项目源码解析组成单词库</li>
+                    <li>1、优化试用</li>
+                    <li>2、修复扫码界面返回按钮不响应Bug</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>周三, 11 03月 2020 19:30:17 +0800</pubDate>
+            <pubDate>周五, 10 04月 2020 10:10:17 +0800</pubDate>
             <enclosure url="https://yao7778899.coding.net/p/macOSApp/d/macOSApp/git/raw/master/cc/CCMixer/CCMixer.zip"
-            length="6507600"
-            sparkle:version="2003110"
-            sparkle:shortVersionString="1.2.1"
+            length="6507706"
+            sparkle:version="2004100"
+            sparkle:shortVersionString="1.2.2"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEQCIE/L0YEZRTM+qE1GbuRKaAhb849Q69hH1mstfHAYQULuAiAJUK2NEBS4V8olFaYcfRFDMb7PiLfrpVhlACcn/dRDNw==" />
+            sparkle:dsaSignature="MEYCIQDheTk2wALyn1pMfX64tt7GuhU1Mw640+Ickyvj4wtz8gIhAMcLjoobpmYavMBknacx+S4Nmuop4pCnPjboCttwNslt" />
         </item>
     </channel>
 </rss>
