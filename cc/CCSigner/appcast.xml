@@ -3,23 +3,22 @@
     <channel>
         <title>CCSigner</title>
         <item>
-            <title>Version 1.4.1</title>
+            <title>Version 1.4.2</title>
             <description>
                 <![CDATA[
-                    <h3>2020-03-08</h3>
+                    <h3>2020-08-14</h3>
                     <ul>
-                    <li>1、支持自动登陆账号，不需要每次手动输入账号</li>
-                    <li>2、其他优化</li>                    
+                    <li>1、修复一些bug</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>周日, 08 03月 2020 12:00:17 +0800</pubDate>
+            <pubDate>周五, 14 08月 2020 13:55:17 +0800</pubDate>
             <enclosure url="https://yao7778899.coding.net/p/macOSApp/d/macOSApp/git/raw/master/cc/CCSigner/CCSigner.zip"
-            length="6026745"
-            sparkle:version="2003080"
-            sparkle:shortVersionString="1.4.1"
+            length="6201013"
+            sparkle:version="2008140"
+            sparkle:shortVersionString="1.4.2"
             type="application/octet-stream"
-            sparkle:dsaSignature="MEUCIQDbE6cQT8vW+TcX7tkGMTXQRdbhDQvrl2Xr2nFpEAfmXAIgUPUHdx+GgHmGjia7rg0foWWxSSg4fx/qA+TcUpOPr/0=" />
+            sparkle:dsaSignature="MEUCIQCr3kTZNP9VENouc1jFC4z4+3UYkhLmc3QmlE4mmV6ryQIgDvvOsQiqBj/GCdp600BscWDO09w++JXBSYoWne004F0=" />
         </item>
     </channel>
 </rss>
