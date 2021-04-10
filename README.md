@@ -1,4 +1,4 @@
-# 目前仅支持 CC 系列的工具(`cc` 目录下)，旧版不再支持，如出现不可用，请前往 [https://app.yaozuopan.top]([https://app.yaozuopan.top) 下载最新版
+# 目前仅支持 CC 系列的工具(`cc` 目录下)，旧版不再支持，如出现不可用，请前往 [https://app.yaozuopan.top](https://app.yaozuopan.top) 下载最新版
 
 # CCMixer
 macOS平台工具，H5游戏项目必备工具，iOS混淆/添加垃圾代码工具，生成的代码规范,拥有更高的过审机率，CCMixer前身为ChaosTool。
